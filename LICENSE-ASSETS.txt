@@ -1,0 +1,11 @@
+OBLR Theme Visual Assets
+Copyright (c) 2026 OBLR Theme Contributors
+
+The original visual assets in the backgrounds/ directory, preview images,
+and unlock.png are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+License: https://creativecommons.org/licenses/by/4.0/
+
+Attribution:
+OBLR Theme — AI-generated visual assets.

@@ -1,0 +1,42 @@
+mode = "dark"
+
+# Monochrome black/silver from the wallpapers, one blood-red accent.
+accent = "#b83b3b"
+selection = "#3a1517"
+muted = "#777774"
+cursor = "#c8c8c6"
+selection_foreground = "#e2e2e0"
+selection_background = "#3a1517"
+
+background = "#050606"
+dark_background = "#030404"
+darker_background = "#020202"
+lighter_background = "#0e0f0f"
+
+foreground = "#b8b8b6"
+dark_foreground = "#8c8c8a"
+light_foreground = "#cfcfcd"
+bright_foreground = "#e2e2e0"
+
+hyprland_active_border = "rgba(b83b3bee) rgba(777774ee) 45deg"
+hyprland_inactive_border = "rgba(1a1a1aaa)"
+
+red = "#d3696c"
+yellow = "#c4aa75"
+orange = "#cc9879"
+green = "#98b07d"
+cyan = "#7fb1af"
+blue = "#8ba6c1"
+magenta = "#bd98b0"
+brown = "#927058"
+
+bright_red = "#e28285"
+bright_yellow = "#d7c18e"
+bright_green = "#b0c796"
+bright_cyan = "#98c8c6"
+bright_blue = "#a5bed7"
+bright_magenta = "#d0acc3"
+
+# Shibumi palette slots 7/8 (it ignores light_foreground).
+color7 = "#cfcfcd"
+color8 = "#777774"
