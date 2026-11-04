@@ -1,6 +1,6 @@
 # OBLR — Omarchy Theme
 
-A dark monochrome Omarchy theme with black, silver, and blood-red accents.
+A dark monochrome Omarchy theme featuring Islamic-inspired visual symbolism, including the Zaqqum tree, thorny forms, and blood-red accents.
 
 ## Installation
 
